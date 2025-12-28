@@ -1,0 +1,21 @@
+{
+    "name": "NEXUS TERMINAL - Blade Runner Task Manager",
+    "short_name": "NEXUS",
+    "description": "Blade Runner style task tracker v6.0 OCTALYSIS - RPG Stats, Quests, Achievements, Leaderboard, Mystery Box, Custom Avatars & Titles, Gratitude Journal",
+    "version": "6.0.0",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#00F0D0",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23000' width='100' height='100'/><text y='.9em' font-size='90'>👁️</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "categories": ["productivity", "utilities", "games"],
+    "lang": "en-US"
+}
